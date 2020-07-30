@@ -351,6 +351,7 @@
 		F1E3658B1BE04112003BF022 /* PINRemoteImage.modulemap */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = "sourcecode.module-map"; path = PINRemoteImage.modulemap; sourceTree = "<group>"; };
 		F370FD6524AD0F6D0026A9D9 /* WebPDemux.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebPDemux.framework; path = webp/WebPDemux.framework; sourceTree = "<group>"; };
 		F370FD6824AD0F920026A9D9 /* WebPDecoder.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebPDecoder.framework; path = webp/WebPDecoder.framework; sourceTree = "<group>"; };
+		FAE1F86424D3243500FD9205 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -577,6 +578,7 @@
 				F165DFD61BD021E30008C6E8 /* Public */,
 				F165DFD71BD021EE0008C6E8 /* Project */,
 				68EB25221C6A64BE002501A3 /* Supporting Files */,
+				FAE1F86424D3243500FD9205 /* Package.swift */,
 			);
 			name = PINRemoteImage;
 			path = Source;
